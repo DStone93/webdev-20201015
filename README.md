@@ -10,3 +10,6 @@ Each exercise should be an individual commit clearly labelling which exercise it
 ## Comments
 
 > Use this section to add comments and instructions for the instructor.
+
+*  Fork the repo, clone the repo locally, add your name to the comments, push your repo, make a pull request back into the main repo.
+   +  Derrick Stone
